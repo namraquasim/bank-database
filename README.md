@@ -1,1 +1,3 @@
-# bank-database
+# my-BANKIST
+
+HTML, CSS, JAVASCRIPT
